@@ -22,7 +22,6 @@ class School
   end
 
   def sort
-    @roster.flatten
     @roster.sort
   end
 end
